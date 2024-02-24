@@ -20,7 +20,7 @@ For instance, **Parallel_Capacitor.m** implements three different solvers and pr
 ![Waveguide_1](https://github.com/Filippos-Dakis/Finite-Elements-Method/assets/114699564/3d31e5f1-e4cc-449e-9588-530e0523c46d)
 
 
-while the **Scattering_Problem_TM_polarization.m** solves the scattering problem of an incident TM polarized plane wave on a infinite cylinder
+while the **Scattering_Problem_TM_polarization.m** solves the scattering problem of a TM polarized plane wave incident on a infinite cylinder
 
 ![Scattering_1](https://github.com/Filippos-Dakis/Finite-Elements-Method/assets/114699564/c6226370-b2a3-4a56-8136-815f4821e765)
 
