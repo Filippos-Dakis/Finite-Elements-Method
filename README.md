@@ -11,6 +11,21 @@ I have implemented first order scalar elements to solve the following problems:
    
 A better approximation can be realized by increasing the nubmer of refinements in the geometry. 
 
+For instance, **Parallel_Capacitor.m** implements three different solvers and produces figures like the following 
+
+![Parallel_1](https://github.com/Filippos-Dakis/Finite-Elements-Method/assets/114699564/d4208fac-2680-4ddc-a2db-db323b6271c4)
+
+**Circular_Waveguide.m** script solves the EM eigenvalue problem in a circular waveguide
+
+![Waveguide_1](https://github.com/Filippos-Dakis/Finite-Elements-Method/assets/114699564/3d31e5f1-e4cc-449e-9588-530e0523c46d)
+
+
+while the **Scattering_Problem_TM_polarization.m** solves the scattering problem of an incident TM polarized plane wave on a infinite cylinder
+
+![Scattering_1](https://github.com/Filippos-Dakis/Finite-Elements-Method/assets/114699564/c6226370-b2a3-4a56-8136-815f4821e765)
+
+
+
 A last remark is that the scripts are written in user friendly way and I strongly encourage the user to go through the code and read it carefully. More specifically, I have written insightful comments at every single line and I have also inserted arrows like this 
 
 " <----------------- " 
